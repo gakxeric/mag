@@ -1,0 +1,174 @@
+body{
+	background-color: white;
+	
+}
+#content_space{
+	background-color: grey;
+	width: 70%;
+	height: 100%;
+	display: block;
+	overflow: auto;
+	margin: 0px auto;
+}
+#header{
+	width: 100%;
+	height: 150px;
+	background-color: green;
+}
+#navigation{
+	width: 100%;
+	height: 50px;
+	background-color: blue;
+}
+#footer{
+	width: 100%;
+	height: 20px;
+	background-color: blue;
+}
+#main_content{
+	width: 70%;
+    height: 100%;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+#headline{
+	width: 100%;
+    height: 250px;
+	background-color: #f34;
+}
+#side_content{
+	width: 26%;
+    height: 450px;
+	background-color: #f39;
+	margin-right: 10px;
+	margin-top: 20px;
+	float: right;
+}
+#article_bullets_right{
+	width: 50%;
+	height: 100%;
+	display: block;
+	overflow: auto;
+	float: right;
+	background-color: #f55;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+#article_bullets_left{
+	width: 49%;
+	height: 100%;
+	display: block;
+	overflow: auto;
+	float: left;
+	background-color: #f50;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.bullet{
+	width: 100%;
+	height: 100px;
+	margin-top: 5px;
+}
+.bullet_img{
+	width: 100px;
+	height: 100px;
+	float: left;
+	padding-right: 4px;
+
+}
+#login_form{
+	width: 50%;
+	height: 250px;
+	margin: 0px auto;
+	border: 2px solid  blue;
+	padding: 10px;
+	margin-top: 100px;
+	border-radius: 8px;
+}
+#login_logo{
+	width: 50%;
+	height: 100px;
+	margin: 0px auto;
+	border: 2px solid  blue;
+	margin-top: 10px;
+	border-radius: 8px;
+}
+#dashboard_logo{
+width: 100%;
+height: 150px;
+background-color: green;
+}
+#dashboard_body{
+width: 100%;
+height: 100%;
+display: block;
+overflow: auto;
+background-color: yellow;
+}
+#dashboard_sidemenu{
+	width: 20%;
+	height: 500px;
+	background-color: white;
+	float: left;
+}
+#admin_content{
+	width: 80%;
+	height: 100%;
+    display: block;
+    overflow: auto;
+    float: right;
+    padding: 8px;
+}
+.media_button{
+	padding-top: 20px;
+}
+.search{
+	float: right;
+	width: 50%;
+}
+#post_area{
+	width: 68%;
+	float: left;
+}
+#text_styles{
+	background-color: grey;
+	height: 50px;
+	margin-top: 10px;
+}
+.publish{
+	width: 100%;
+	height: 100%;
+	display: block;
+	overflow: auto;
+	background-color: white;
+	margin-bottom: 10px;
+	border-radius: 5px;
+}
+#publish_area{
+	width: 30%;
+	float: right;
+}
+.notif_buttons{
+	margin-top: 10px;
+}
+#media_space{
+	width: 100%;
+	height: 100%;
+	display: block;
+	overflow: auto;
+	background-color: white;
+}
+.user_form{
+	width: 75%;
+}
+#category{
+	padding: 10px;
+}
+#uploads{
+	background-color: white;
+	display: none;
+	position: absolute;
+		
+}
+
+
